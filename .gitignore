@@ -1,0 +1,5 @@
+# Hugo build directory
+public/
+
+# System files
+.DS_Store
