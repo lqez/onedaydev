@@ -11,5 +11,5 @@ params:
   locale: "ko_KR"
   description: "딱 하루, 낯선 회사에서 일하고 관찰하고 기록합니다"
   seo:
-    default_image: "/images/og-image.jpg"
+    default_image: "/images/default.jpg"
   title: "One day dev"
