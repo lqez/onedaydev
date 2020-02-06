@@ -8,6 +8,7 @@ taxonomies:
   author: authors
 googleAnalytics: UA-157925958-1
 params:
+  locale: ko_kr
   description: 딱 하루, 낯선 회사에서 일하고 관찰하고 기록합니다
   images:
   - /images/og-image.jpg
