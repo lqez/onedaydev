@@ -1,5 +1,6 @@
 # Hugo build directory
 public/
+resources/_gen
 
 # System files
 .DS_Store

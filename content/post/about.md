@@ -1,7 +1,10 @@
 ---
-title: "About"
-date: 2020-02-04T15:56:45+09:00
-authors: lqez
+title: "One day dev, 하루개발을 합니다."
+slug: "about"
+hero: "/images/about.jpg"
+date: 2019-12-01
+authors:
+ - lqez
 ---
 
 ## Just one day
@@ -37,9 +40,9 @@ authors: lqez
  - [LinkedIn](https://www.linkedin.com/in/hyunwoopark/)과 [GitHub](https://github.com/lqez/), [홈페이지](https://lqez.github.io/)를 참조해주세요.
  - 한국어는 모국어로 자연스럽게 의사소통할 수 있고, 영어는 읽고 쓰며, 낮은 수준으로 의사소통할 수 있습니다.
  - 다음의 프로그래밍 언어로 프로그램을 작성하고 기존에 작성된 코드를 수정할 수 있습니다.
-      - C, Python, JavaScript
+    - C, Python, JavaScript
  - 다음의 운영체제 위에서 프로그래밍을 할 수 있습니다.
-      - Windows, Linux, macOS
+    - Windows, Linux, macOS
  - 다양한 서비스를 운영하며 관계형, 문서, 키-밸류 데이터베이스를 운영하고 최적화한 경험이 있습니다.
  - 새로운 코드를 최소한으로 작성하고 기존에 작성된 것들을 조합하여 문제를 해결하는 방법을 찾습니다.
  - 최종 사용자 제품 제작부터 사내 시스템 운영까지 다양한 분야에 넓고 얕은 경험을 공유해 드립니다.

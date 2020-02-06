@@ -1,6 +1,8 @@
 baseURL: "https://one-day.dev/"
 languageCode: "ko-kr"
-title: "Ony day dev"
+title: "One day dev"
 theme: "novela"
+pygmentsstyle: 'monokai'
+paginate: 6
 taxonomies:
   author: authors

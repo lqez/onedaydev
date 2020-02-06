@@ -1,7 +1,8 @@
 ---
 title: lqez
 bio: |
-  Being a pixel of the universe.
+  <strong>Park Hyunwoo</strong>
+  An ordinary developer. Trying to be a pixel of the universe.
 avatar: /images/lqez.jpg
 featured: true
 social:
