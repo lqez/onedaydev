@@ -6,3 +6,4 @@ pygmentsstyle: 'monokai'
 paginate: 6
 taxonomies:
   author: authors
+googleAnalytics: UA-157925958-1
