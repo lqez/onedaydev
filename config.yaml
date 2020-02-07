@@ -13,3 +13,6 @@ params:
   seo:
     default_image: "/images/default.jpg"
   title: "One day dev"
+  utterances:
+    repo: "lqez/onedaydev"
+    theme: "github-light"
