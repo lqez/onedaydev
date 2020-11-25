@@ -2,7 +2,7 @@ baseURL: "https://one-day.dev/"
 languageCode: "ko-kr"
 title: "One day dev"
 theme: "novela"
-pygmentsstyle: 'monokai'
+pygmentsstyle: "monokai"
 paginate: 6
 taxonomies:
   author: authors
@@ -15,4 +15,6 @@ params:
   title: "One day dev"
   utterances:
     repo: "lqez/onedaydev"
-    theme: "github-light"
+    theme: 
+      light: "github-light"
+      dark: "github-dark"
