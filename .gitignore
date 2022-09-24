@@ -1,6 +1,7 @@
 # Hugo build directory
 public/
 resources/_gen
+.hugo_build.lock
 
 # System files
 .DS_Store
