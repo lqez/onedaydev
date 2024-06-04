@@ -31,7 +31,9 @@ authors:
 
 <div class="videowrapper"><iframe class="video" src="https://www.youtube.com/embed/_NxqtDJLQ2g?autoplay=0" frameborder="0"></iframe></div>
 
- - 참조 영상(유튜브): <https://www.youtube.com/watch?v=_NxqtDJLQ2g>
+ - 참조 영상 
+   - 인프랩: <https://www.youtube.com/watch?v=gxPAF5410w0>
+   - 그린랩스: <https://www.youtube.com/watch?v=_CtZ8wegTJM>
 
 ## Services
 
