@@ -2,7 +2,7 @@
 title: lqez
 bio: |
   <strong>Park Hyunwoo</strong>
-  An ordinary developer. Trying to be a pixel of the universe.
+  An ordinary developer.
 avatar: /images/lqez.jpg
 featured: true
 social:
